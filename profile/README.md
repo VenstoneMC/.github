@@ -20,4 +20,5 @@ Venstone est un serveur Minecraft français ouvert à tous, pour toutes les plat
 - VenstoneEntityBlockChunkLimiter : https://github.com/VenstoneMC/VenstoneEntityBlockChunkLimiter
 - VenstoneKillManager : https://github.com/VenstoneMC/VenstoneKillManager
 - VenstoneAccountTransfer : https://github.com/VenstoneMC/VenstoneAccountTransfer
+- VenstoneEcoDash : https://github.com/VenstoneMC/VenstoneEcoDash
 - GPAddonVenstoneClaimOut : https://github.com/VenstoneMC/GPAddonVenstoneClaimOut
